@@ -1,2 +1,2 @@
 # GCLMA
-We will provide all the code for the article later
+If the paper is accepted, we will release the code.
